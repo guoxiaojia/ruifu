@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'cocogooseregular';
+  src: url('01/cocogoose_trial_2-webfont.eot');
+  src: url('01/cocogoose_trial_2-webfont.eot?#iefix') format('embedded-opentype'),
+  url('01/cocogoose_trial_2-webfont.woff2') format('woff2'),
+  url('01/cocogoose_trial_2-webfont.woff') format('woff'),
+  url('01/cocogoose_trial_2-webfont.ttf') format('truetype'),
+  url('01/cocogoose_trial_2-webfont.svg#cocogooseregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'abeezeeregular';
+  src: url('02/abeezee-regular-webfont-webfont.eot');
+  src: url('02/abeezee-regular-webfont-webfont.eot?#iefix') format('embedded-opentype'),
+  url('02/abeezee-regular-webfont-webfont.woff2') format('woff2'),
+  url('02/abeezee-regular-webfont-webfont.woff') format('woff'),
+  url('02/abeezee-regular-webfont-webfont.ttf') format('truetype'),
+  url('02/abeezee-regular-webfont-webfont.svg#abeezeeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+

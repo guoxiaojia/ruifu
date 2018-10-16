@@ -1,0 +1,1696 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPDuplicator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-25 10:19+0800\n"
+"PO-Revision-Date: 2015-04-25 10:23+0800\n"
+"Last-Translator: rr <888@qqq.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/ui.php:111
+msgid ""
+"Reserved Duplicator install file(s) still exists in the root directory.  "
+"Please delete these file(s) to avoid possible security issues."
+msgstr "打包安装文件在根目录。请删除这些文件避免安全问题。"
+
+#: ../classes/ui.php:112
+msgid "Remove file(s) now"
+msgstr "现在移除文件"
+
+#: ../classes/ui.php:113
+msgid "Dismiss this notice"
+msgstr "关闭此通知"
+
+#: ../classes/utility.php:236
+msgid "You do not have sufficient permissions to access this page."
+msgstr "你没有足够的权限访问此页面。"
+
+#: ../duplicator.php:100
+msgid "Get Help"
+msgstr "获取帮助"
+
+#: ../duplicator.php:100 ../duplicator.php:189 ../views/help/help.php:29
+msgid "Help"
+msgstr "帮助"
+
+#: ../duplicator.php:101
+msgid "Support the Plugin"
+msgstr "支持插件"
+
+#: ../duplicator.php:101 ../duplicator.php:193 ../views/help/about.php:41
+msgid "About"
+msgstr "关于"
+
+#: ../duplicator.php:177 ../views/packages/controller.php:75
+#: ../views/packages/list.base.php:235
+msgid "Packages"
+msgstr "压缩包"
+
+#: ../duplicator.php:181 ../views/settings/controller.php:19
+msgid "Settings"
+msgstr "设置"
+
+#: ../duplicator.php:185 ../views/tools/controller.php:13
+msgid "Tools"
+msgstr "工具"
+
+#: ../duplicator.php:197 ../views/help/gopro.php:36
+msgid "Go Pro!"
+msgstr "专业版！"
+
+#: ../duplicator.php:244
+msgid "Manage"
+msgstr "管理"
+
+#: ../views/help/about.php:54
+msgid ""
+"Created for Admins, Developers and Designers the Duplicator can streamline "
+"your workflows and help you quickly clone a WordPress application.  "
+"Migrating a WordPress site manually can be very time consuming.  The "
+"Duplicator was made to help you speed up the migration process. Please help "
+"us to continue the development effort of this plugin."
+msgstr ""
+"为管理员，开发者和设计者创建Duplicator能流程化操作帮助您快速克隆Wordpress应用"
+"程序。手动迁移Wordpress网站费时费力。而Duplicator能帮助您快速迁移网站。请赞助"
+"我们让Duplicator得以继续开发。"
+
+#: ../views/help/about.php:64
+msgid "Support Duplicator"
+msgstr "支持Duplicator"
+
+#: ../views/help/about.php:71
+msgid "Partner with Us"
+msgstr "合作伙伴"
+
+#: ../views/help/about.php:83
+msgid "Keep Active and Online"
+msgstr "保持激活和在线"
+
+#: ../views/help/about.php:90
+msgid "Leave 5 Stars"
+msgstr "给5星"
+
+#: ../views/help/about.php:107
+msgid "Spread the Word"
+msgstr "分享给世界"
+
+#: ../views/help/about.php:113
+msgid "Duplicate Your WordPress"
+msgstr "克隆您的Wordpress"
+
+#: ../views/help/about.php:114
+msgid "Rapid WordPress Duplication by LifeInTheGrid.com"
+msgstr "快速Wordpress克隆来自LifeInTheGrid.com"
+
+#: ../views/help/about.php:131
+msgid "Get More Great Tools"
+msgstr "获取更多资源"
+
+#: ../views/help/gopro.php:46
+msgid "Backup and Move Made Easy!"
+msgstr ""
+
+#: ../views/help/gopro.php:47
+msgid "The top-rated Duplicator plugin is going professional!"
+msgstr ""
+
+#: ../views/help/gopro.php:56
+#, fuzzy
+msgid "Duplicator Free"
+msgstr "克隆您的Wordpress"
+
+#: ../views/help/gopro.php:61 ../views/help/gopro.php:95
+msgid "Backup Files &amp; Database"
+msgstr ""
+
+#: ../views/help/gopro.php:62 ../views/help/gopro.php:96
+msgid ""
+"Compresses all your WordPress files and database into a compressed snapshot "
+"archive file."
+msgstr ""
+
+#: ../views/help/gopro.php:65 ../views/help/gopro.php:99
+#, fuzzy
+msgid "Directory Filters"
+msgstr "目录"
+
+#: ../views/help/gopro.php:66 ../views/help/gopro.php:100
+msgid ""
+"Filter out the directories and file extensions you want to include/exclude "
+"in your in your archive file."
+msgstr ""
+
+#: ../views/help/gopro.php:69 ../views/help/gopro.php:103
+#, fuzzy
+msgid "Database Table Filters"
+msgstr "启用文件过滤"
+
+#: ../views/help/gopro.php:70 ../views/help/gopro.php:104
+msgid ""
+"Filter out only the database tables you want to include/exclude in your "
+"database creation script."
+msgstr ""
+
+#: ../views/help/gopro.php:73 ../views/help/gopro.php:107
+msgid "Migration Wizard"
+msgstr ""
+
+#: ../views/help/gopro.php:74 ../views/help/gopro.php:108
+msgid ""
+"With just two files (archive &amp; installer.php) move your site to a new "
+"location."
+msgstr ""
+
+#: ../views/help/gopro.php:89
+#, fuzzy
+msgid "Duplicator Pro"
+msgstr "克隆您的Wordpress"
+
+#: ../views/help/gopro.php:111
+msgid "Schedules"
+msgstr ""
+
+#: ../views/help/gopro.php:112
+msgid ""
+"Automate the creation of your packages to run at various scheduled intervals."
+msgstr ""
+
+#: ../views/help/gopro.php:115
+msgid "Custom Templates"
+msgstr "自定义模板"
+
+#: ../views/help/gopro.php:116
+msgid ""
+"Customize how each package is created and built with a customized template."
+msgstr ""
+
+#: ../views/help/gopro.php:119
+msgid "Cloud Storage"
+msgstr "云存储"
+
+#: ../views/help/gopro.php:120
+msgid ""
+"Backup up your entire package to the cloud with access to services like FTP "
+"and Dropbox."
+msgstr ""
+
+#: ../views/help/gopro.php:123
+msgid "Queued Processing"
+msgstr "处理中"
+
+#: ../views/help/gopro.php:124
+msgid ""
+"Enable the build of larger more complex packages and avoid server timeouts "
+"with queued processing."
+msgstr ""
+
+#: ../views/help/gopro.php:127
+msgid "Customer Support"
+msgstr "客户支持"
+
+#: ../views/help/gopro.php:128
+msgid ""
+"Server setups can be quite complex, with pro you get prompt help to get your "
+"site backed up and moved."
+msgstr ""
+
+#: ../views/help/gopro.php:136
+msgid "Check It Out!"
+msgstr "结算"
+
+#: ../views/help/help.php:38
+msgid ""
+"Migrating WordPress is a complex process and the logic to make all the magic "
+"happen smoothly may not work quickly with every site.  With over 30,000 "
+"plugins and a very complex server eco-system some migrations may run into "
+"issues.  This is why the Duplicator includes a detailed knowledgebase that "
+"can help with many common issues.  Resources to additional support, approved "
+"hosting, and alternatives to fit your needs can be found below."
+msgstr ""
+"迁移Wordpress是一个复杂程序并且有很多未知的事发生。超过30000的插件和一个非常"
+"复杂的生态系统的一些服务器迁移可能会遇到问题。这就是为什么Duplicator包括详细"
+"的知识能够帮助解决这么多的问题。附加支持资源，推荐主机和适合您需求的替代方案"
+"都可以在这里找到。"
+
+#: ../views/help/help.php:50
+msgid "Knowledgebase"
+msgstr "知识"
+
+#: ../views/help/help.php:53
+msgid "Complete Online Documentation"
+msgstr "完成在线文档"
+
+#: ../views/help/help.php:55
+msgid "Choose A Section"
+msgstr "选择章节"
+
+#: ../views/help/help.php:56
+msgid "Quick Start"
+msgstr "快速开始"
+
+#: ../views/help/help.php:57
+msgid "User Guide"
+msgstr "用户指导"
+
+#: ../views/help/help.php:58
+msgid "FAQs"
+msgstr "常见问题"
+
+#: ../views/help/help.php:59
+msgid "Change Log"
+msgstr "修改记录"
+
+#: ../views/help/help.php:60
+msgid "Product Page"
+msgstr "产品页面"
+
+#: ../views/help/help.php:69
+msgid "Online Support"
+msgstr "在线支持"
+
+#: ../views/help/help.php:72
+msgid "Get Help From IT Professionals"
+msgstr "从IT专家获取帮助"
+
+#: ../views/help/help.php:76
+msgid "Get Support!"
+msgstr "获得支持！"
+
+#: ../views/help/help.php:88
+msgid "Approved Hosting"
+msgstr "推荐主题"
+
+#: ../views/help/help.php:91
+msgid "Servers That Work With Duplicator"
+msgstr "Duplicator工作服务器"
+
+#: ../views/help/help.php:94
+msgid "Trusted Providers!"
+msgstr "信任提供商！"
+
+#: ../views/help/help.php:104
+msgid "Alternatives"
+msgstr "替代"
+
+#: ../views/help/help.php:107
+msgid "Other Commercial Resources"
+msgstr "其它商业资源"
+
+#: ../views/help/help.php:110
+#, fuzzy
+msgid "Pro Solutions!"
+msgstr "获取支持和高级版功能"
+
+#: ../views/packages/list-nodata.php:7
+msgid "No Packages Found."
+msgstr "未找到压缩包"
+
+#: ../views/packages/list-nodata.php:8
+#, fuzzy
+msgid "Click the 'Create New' button to build a package."
+msgstr "单击“新建”选项创建压缩包"
+
+#: ../views/packages/list-nodata.php:13
+msgid "Please visit the"
+msgstr "请访问"
+
+#: ../views/packages/list-nodata.php:14 ../views/packages/list-nodata.php:28
+#: ../views/packages/new1.base.php:231
+msgid "help page"
+msgstr "帮助页面"
+
+#: ../views/packages/list-nodata.php:15
+msgid "for additional support"
+msgstr "获取附加支持"
+
+#: ../views/packages/list-nodata.php:24
+msgid "Older packages prior to 0.5.0 are no longer supported in this version."
+msgstr "0.5.0之前压缩包在此版本中不再支持"
+
+#: ../views/packages/list-nodata.php:27
+msgid "To get an older package please visit the"
+msgstr "获得老压缩包请访问"
+
+#: ../views/packages/list-nodata.php:29
+msgid "and look for the Change Log link for additional instructions."
+msgstr "并寻找附加介绍的修改日志链接"
+
+#: ../views/packages/list-nodata.php:33
+msgid "Hide this message"
+msgstr "隐藏信息"
+
+#: ../views/packages/list.base.php:39
+msgid "Help Support Duplicator"
+msgstr "帮助支持Duplicator"
+
+#: ../views/packages/list.base.php:50
+msgid "Bulk Actions"
+msgstr "批处理动作"
+
+#: ../views/packages/list.base.php:51
+msgid "Delete selected package(s)"
+msgstr "删除选择的压缩包"
+
+#: ../views/packages/list.base.php:51
+msgid "Delete"
+msgstr "删除"
+
+#: ../views/packages/list.base.php:53
+msgid "Apply"
+msgstr "应用"
+
+#: ../views/packages/list.base.php:58
+msgid "Package Logs"
+msgstr "压缩包记录"
+
+#: ../views/packages/list.base.php:61 ../views/packages/new1.base.php:91
+#: ../views/packages/new2.base.php:68 ../views/packages/new3.base.php:43
+#: ../views/packages/new3.base.php:89
+msgid "All Packages"
+msgstr ""
+
+#: ../views/packages/list.base.php:62 ../views/packages/new1.base.php:92
+#: ../views/packages/new2.base.php:69 ../views/packages/new3.base.php:44
+msgid "Create New"
+msgstr "新建"
+
+#: ../views/packages/list.base.php:87
+msgid "Select all packages"
+msgstr "选择所有压缩包"
+
+#: ../views/packages/list.base.php:88 ../views/packages/new3.base.php:107
+msgid "Details"
+msgstr "详情"
+
+#: ../views/packages/list.base.php:89
+msgid "Created"
+msgstr "已创建"
+
+#: ../views/packages/list.base.php:90 ../views/packages/new2.base.php:221
+#: ../views/packages/new2.base.php:323
+msgid "Size"
+msgstr "大小"
+
+#: ../views/packages/list.base.php:91 ../views/packages/new1.inc.form.php:9
+#: ../views/packages/new3.base.php:74
+msgid "Name"
+msgstr "名称"
+
+#: ../views/packages/list.base.php:93 ../views/packages/new1.inc.form.php:6
+#: ../views/settings/general.php:110
+msgid "Package"
+msgstr "压缩包"
+
+#: ../views/packages/list.base.php:124
+msgid "(No Notes Taken)"
+msgstr "(没有记录)"
+
+#: ../views/packages/list.base.php:142 ../views/packages/list.base.php:187
+msgid "View"
+msgstr "查看"
+
+#: ../views/packages/list.base.php:147 ../views/packages/new1.inc.form.php:132
+#: ../views/packages/new3.base.php:79
+msgid "Installer"
+msgstr "安装程序"
+
+#: ../views/packages/list.base.php:150 ../views/packages/new1.inc.form.php:18
+#: ../views/packages/new2.base.php:194 ../views/packages/new3.base.php:83
+msgid "Archive"
+msgstr "压缩包"
+
+#: ../views/packages/list.base.php:155 ../views/packages/list.base.php:200
+#: ../views/settings/general.php:79 ../views/tools/diagnostics.php:141
+#: ../views/tools/diagnostics.php:160 ../views/tools/diagnostics.php:200
+msgid "Version"
+msgstr "版本"
+
+#: ../views/packages/list.base.php:156 ../views/packages/list.base.php:201
+#: ../views/packages/new1.inc.form.php:151 ../views/tools/diagnostics.php:168
+msgid "User"
+msgstr "用户"
+
+#: ../views/packages/list.base.php:157 ../views/packages/list.base.php:202
+msgid "Hash"
+msgstr "散列"
+
+#: ../views/packages/list.base.php:158 ../views/packages/list.base.php:207
+#: ../views/packages/new1.inc.form.php:12
+msgid "Notes"
+msgstr "注释"
+
+#: ../views/packages/list.base.php:160
+msgid "Links"
+msgstr "链接"
+
+#: ../views/packages/list.base.php:161
+msgid "SQL"
+msgstr "SQL"
+
+#: ../views/packages/list.base.php:162
+msgid "Log"
+msgstr "日志"
+
+#: ../views/packages/list.base.php:165
+msgid "Open Scan Report"
+msgstr "打开扫描报告"
+
+#: ../views/packages/list.base.php:166
+msgid "View Package Object"
+msgstr "查看压缩对象"
+
+#: ../views/packages/list.base.php:193
+msgid "View Error Details"
+msgstr "查看错误详情"
+
+#: ../views/packages/list.base.php:205
+msgid "Unrecoverable Error! Please remove this package."
+msgstr "没有恢复错误！请移除此压缩包。"
+
+#: ../views/packages/list.base.php:210
+msgid ""
+"This package has encountered errors.  Click 'View Log' for more details.  "
+"For additional support see the "
+msgstr "这个压缩包遭遇错误。单击'查看记录'了解详情。更多支持请看"
+
+#: ../views/packages/list.base.php:211
+msgid "online knowledgebase"
+msgstr "在线知识"
+
+#: ../views/packages/list.base.php:213
+msgid "View Log"
+msgstr "查看记录"
+
+#: ../views/packages/list.base.php:236 ../views/packages/new2.base.php:218
+#: ../views/packages/new2.base.php:317
+msgid "Total Size"
+msgstr "总大小"
+
+#: ../views/packages/list.base.php:255
+msgid "Download Links"
+msgstr "下载链接"
+
+#: ../views/packages/list.base.php:258
+msgid "The following links contain sensitive data.  Please share with caution!"
+msgstr "下面的链接包含敏感数据。请小心分享！"
+
+#: ../views/packages/list.base.php:264
+msgid ""
+"The database SQL script is a quick link to your database backup script.  An "
+"exact copy is also stored in the package."
+msgstr ""
+"数据库SQL脚本快速链接到您的数据库备份脚本。正确的副本也保存在压缩包中。"
+
+#: ../views/packages/list.base.php:287
+msgid ""
+"Please select an action from the bulk action drop down menu to perform a "
+"specific action."
+msgstr "请从批处理下拉菜单中选择动作执行指定动作。"
+
+#: ../views/packages/list.base.php:295
+msgid "Please select at least one package to delete."
+msgstr "请至少选择一个要删除的压缩包"
+
+#: ../views/packages/list.base.php:299
+msgid "Are you sure, you want to delete the selected package(s)?"
+msgstr "您确定要删除选择的压缩包？"
+
+#: ../views/packages/list.base.php:333
+msgid "Package File Links"
+msgstr "压缩包文件链接"
+
+#: ../views/packages/list.base.php:336
+msgid "DATABASE"
+msgstr "数据库"
+
+#: ../views/packages/list.base.php:337
+msgid "PACKAGE"
+msgstr "压缩包"
+
+#: ../views/packages/list.base.php:338
+msgid "INSTALLER"
+msgstr "安装程序"
+
+#: ../views/packages/list.base.php:339
+msgid "LOG"
+msgstr "记录"
+
+#: ../views/packages/list.base.php:340
+msgid "REPORT"
+msgstr "报告"
+
+#: ../views/packages/new1.base.php:11
+msgid "Package settings have been reset."
+msgstr "压缩包设置已被重置"
+
+#: ../views/packages/new1.base.php:81 ../views/packages/new2.base.php:58
+#: ../views/packages/new3.base.php:33
+msgid "Setup"
+msgstr "设置"
+
+#: ../views/packages/new1.base.php:82 ../views/packages/new2.base.php:59
+#: ../views/packages/new3.base.php:34
+msgid "Scan"
+msgstr "扫描"
+
+#: ../views/packages/new1.base.php:83 ../views/packages/new2.base.php:60
+#: ../views/packages/new2.base.php:377 ../views/packages/new3.base.php:35
+msgid "Build"
+msgstr "创建"
+
+#: ../views/packages/new1.base.php:86
+msgid "Step 1: Package Setup"
+msgstr "步骤1：压缩包设置"
+
+#: ../views/packages/new1.base.php:110
+msgid "Requirements:"
+msgstr "需求："
+
+#: ../views/packages/new1.base.php:119
+msgid ""
+"System requirements must pass for the Duplicator to work properly.  Click "
+"each link for details."
+msgstr "必须通过系统需要Duplicator才能适当工作。单击每个链接获取详情。"
+
+#: ../views/packages/new1.base.php:125
+msgid "PHP Support"
+msgstr "PHP支持"
+
+#: ../views/packages/new1.base.php:131
+msgid "PHP Version"
+msgstr "PHP 版本"
+
+#: ../views/packages/new1.base.php:135
+msgid "Zip Archive Enabled"
+msgstr "Zip文档被启用"
+
+#: ../views/packages/new1.base.php:139
+msgid "Safe Mode Off"
+msgstr "安全模式关闭"
+
+#: ../views/packages/new1.base.php:143 ../views/packages/new1.base.php:147
+#: ../views/packages/new1.base.php:151
+msgid "Function"
+msgstr "函数"
+
+#: ../views/packages/new1.base.php:156
+msgid ""
+"PHP versions 5.2.17+ or higher is required. Please note that in versioning "
+"logic a value such as 5.2.9 is less than 5.2.17. For compression to work the "
+"ZipArchive extension for PHP is required. Safe Mode should be set to 'Off' "
+"in you php.ini file and is deprecated as of PHP 5.3.0.  For any issues in "
+"this section please contact your hosting provider or server administrator.  "
+"For additional information see our online documentation."
+msgstr ""
+"PHP版本5.2.17+或更高被需求的。请注意在版本控制逻辑中向5.2.9是低于5.2.17的。对"
+"于压缩需要PHP ZipArchive扩展是必须的。安全模式应该在php.ini文件中设置为 "
+"'Off' 并且不支持PHP 5.3.0。更多问题请联系您的主机提供商和服务器管理员。更多信"
+"息查看在线文档。"
+
+#: ../views/packages/new1.base.php:164
+msgid "Permissions"
+msgstr "权限"
+
+#: ../views/packages/new1.base.php:167
+msgid "Required Paths"
+msgstr "必需路径"
+
+#: ../views/packages/new1.base.php:179
+msgid ""
+"Permissions can be difficult to resolve on some systems. If the plugin can "
+"not read the above paths here are a few things to try. 1) Set the above "
+"paths to have permissions of 755 for directories and 644 for files. You can "
+"temporarily try 777 however, be sure you don’t leave them this way. 2) Check "
+"the owner/group settings for both files and directories. The PHP script "
+"owner and the process owner are different. The script owner owns the PHP "
+"script but the process owner is the user the script is running as, thus "
+"determining its capabilities/privileges in the file system. For more details "
+"contact your host or server administrator or visit the 'Help' menu under "
+"Duplicator for additional online resources."
+msgstr ""
+
+#: ../views/packages/new1.base.php:187
+msgid "Server Support"
+msgstr "服务器支持"
+
+#: ../views/packages/new1.base.php:193
+msgid "MySQL Version"
+msgstr "MySQL版本"
+
+#: ../views/packages/new1.base.php:197
+msgid "MySQLi Support"
+msgstr "MySQLi 支持"
+
+#: ../views/packages/new1.base.php:203
+msgid ""
+"MySQL version 5.0+ or better is required and the PHP MySQLi extension (note "
+"the trailing 'i') is also required.  Contact your server administrator and "
+"request that mysqli extension and MySQL Server 5.0+ be installed. Please "
+"note in future versions support for other databases and extensions will be "
+"added."
+msgstr ""
+
+#: ../views/packages/new1.base.php:204 ../views/packages/new2.base.php:136
+#: ../views/packages/new2.base.php:148
+msgid "more info"
+msgstr "详情"
+
+#: ../views/packages/new1.base.php:213
+msgid "Reserved Files"
+msgstr "保留文件"
+
+#: ../views/packages/new1.base.php:217
+msgid ""
+"None of the reserved files (installer.php, installer-data.sql and installer-"
+"log.txt) where found from a previous install.  This means you are clear to "
+"create a new package."
+msgstr ""
+"没有从以前的安装中找到保留文件(installer.php, installer-data.sql 和 "
+"installer-log.txt) 。这意味您清空了去创建新压缩包。"
+
+#: ../views/packages/new1.base.php:220
+msgid ""
+"A reserved file(s) was found in the WordPress root directory. Reserved file "
+"names are installer.php, installer-data.sql and installer-log.txt.  To "
+"archive your data correctly please remove any of these files from your "
+"WordPress root directory.  Then try creating your package again."
+msgstr ""
+
+#: ../views/packages/new1.base.php:221
+msgid "Remove Files Now"
+msgstr "现在移除文件"
+
+#: ../views/packages/new1.base.php:231
+msgid "For additional help please see the "
+msgstr "附加帮助请查看"
+
+#: ../views/packages/new1.inc.form.php:10
+msgid "Create a new default name"
+msgstr "新建默认名称"
+
+#: ../views/packages/new1.inc.form.php:20
+msgid "File filter enabled"
+msgstr "文件过滤被启用"
+
+#: ../views/packages/new1.inc.form.php:21
+msgid "Database filter enabled"
+msgstr "数据库过滤被启用"
+
+#: ../views/packages/new1.inc.form.php:28
+msgid "Format"
+msgstr "格式"
+
+#: ../views/packages/new1.inc.form.php:38 ../views/packages/new2.base.php:202
+msgid "Files"
+msgstr "文件"
+
+#: ../views/packages/new1.inc.form.php:39
+#: ../views/packages/new1.inc.form.php:147 ../views/packages/new2.base.php:301
+msgid "Database"
+msgstr "数据库"
+
+#: ../views/packages/new1.inc.form.php:51
+msgid "Enable File Filters"
+msgstr "启用文件过滤"
+
+#: ../views/packages/new1.inc.form.php:55
+#: ../views/packages/new1.inc.form.php:63
+msgid "Separate all filters by semicolon"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:55 ../views/packages/new2.base.php:271
+msgid "Directories"
+msgstr "目录"
+
+#: ../views/packages/new1.inc.form.php:57
+msgid "root path"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:58
+msgid "wp-uploads"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:59
+msgid "cache"
+msgstr "缓存"
+
+#: ../views/packages/new1.inc.form.php:60
+#: ../views/packages/new1.inc.form.php:67
+msgid "(clear)"
+msgstr "（清除）"
+
+#: ../views/packages/new1.inc.form.php:63
+msgid "File extensions"
+msgstr "文件扩展名"
+
+#: ../views/packages/new1.inc.form.php:65
+msgid "media"
+msgstr "媒体"
+
+#: ../views/packages/new1.inc.form.php:66
+msgid "archive"
+msgstr "存档"
+
+#: ../views/packages/new1.inc.form.php:72
+msgid ""
+"The directory paths and extensions above will be be excluded from the "
+"archive file if enabled is checked."
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:73
+msgid "Use the full path for directories and semicolons to separate all items."
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:84
+msgid "Enable Table Filters"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:85
+msgid "checked tables are excluded"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:90
+msgid "Include All"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:91
+msgid "Exclude All"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:119
+msgid ""
+"Checked tables will not be added to the database script.  Excluding certain "
+"tables can possibly cause your site or plugins to not work correctly after "
+"install!"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:137
+msgid "STEP 1 - INPUTS"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:140
+msgid "MySQL Server"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:143
+msgid "Host"
+msgstr "主机"
+
+#: ../views/packages/new1.inc.form.php:155
+msgid "Advanced Options"
+msgstr "高级选项"
+
+#: ../views/packages/new1.inc.form.php:161
+msgid "SSL"
+msgstr "SSL"
+
+#: ../views/packages/new1.inc.form.php:164
+msgid "Enforce on Admin"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:168
+msgid "Enforce on Logins"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:172
+msgid "Cache"
+msgstr "缓存"
+
+#: ../views/packages/new1.inc.form.php:175
+msgid "Keep Enabled"
+msgstr "保持打开"
+
+#: ../views/packages/new1.inc.form.php:179
+msgid "Keep Home Path"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:187
+msgid "STEP 2 - INPUTS"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:191
+msgid "New URL"
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:198
+msgid "The installer can have these fields pre-filled at install time."
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:198
+msgid "All values are optional."
+msgstr ""
+
+#: ../views/packages/new1.inc.form.php:207
+msgid "Reset"
+msgstr "重置"
+
+#: ../views/packages/new1.inc.form.php:208
+msgid "Next"
+msgstr "下一步"
+
+#: ../views/packages/new1.inc.form.php:220
+msgid ""
+"This will reset all of the current package settings.  Would you like to "
+"continue?"
+msgstr ""
+
+#: ../views/packages/new2.base.php:63
+msgid "Step 2: System Scan"
+msgstr ""
+
+#: ../views/packages/new2.base.php:79
+msgid "Scanning Site"
+msgstr ""
+
+#: ../views/packages/new2.base.php:81 ../views/packages/new3.base.php:57
+msgid "Please Wait..."
+msgstr "请稍等..."
+
+#: ../views/packages/new2.base.php:87
+msgid "Scan Complete"
+msgstr ""
+
+#: ../views/packages/new2.base.php:89
+msgid ""
+"Scan checks are not required to pass, however they could cause issues on "
+"some systems."
+msgstr ""
+
+#: ../views/packages/new2.base.php:90
+msgid "Process Time:"
+msgstr ""
+
+#: ../views/packages/new2.base.php:99
+msgid "Server"
+msgstr "服务器"
+
+#: ../views/packages/new2.base.php:101 ../views/tools/controller.php:17
+msgid "Diagnostics"
+msgstr ""
+
+#: ../views/packages/new2.base.php:110 ../views/packages/new2.base.php:116
+#: ../views/tools/diagnostics.php:106
+msgid "Web Server"
+msgstr "Web'服务器"
+
+#: ../views/packages/new2.base.php:118
+msgid "The Duplicator currently works with these web servers:"
+msgstr ""
+
+#: ../views/packages/new2.base.php:127
+msgid "PHP Settings"
+msgstr ""
+
+#: ../views/packages/new2.base.php:133
+#, fuzzy
+msgid "Open Base Dir"
+msgstr "基于"
+
+#: ../views/packages/new2.base.php:135
+msgid ""
+"The Duplicator may have issues when [open_basedir] is enabled. Please work "
+"with your server administrator to disable this value in the php.ini file if "
+"you’re having issues building a package."
+msgstr ""
+
+#: ../views/packages/new2.base.php:140 ../views/tools/diagnostics.php:189
+#, fuzzy
+msgid "Max Execution Time"
+msgstr "最大执行时间"
+
+#: ../views/packages/new2.base.php:144
+#, php-format
+msgid ""
+"The Duplicator will have issues when the [max_execution_time] value in the "
+"php.ini is low.  Timeouts effect how long a process is allowed to run.  The "
+"recommended timeout is \"%1$s\" seconds. An attempt is made to override this "
+"value if the server allows it.  Please work with your server administrator "
+"to make sure there are no restrictions for how long a PHP process is allowed "
+"to run."
+msgstr ""
+
+#: ../views/packages/new2.base.php:147
+msgid ""
+"Note: Timeouts can also be set at the web server layer, so if the PHP max "
+"timeout passes and you still see a build interrupt messages, then your web "
+"server could be killing the process.   If you are limited on processing "
+"time, consider using the database or file filters to shrink the size of your "
+"overall package.   However use caution as excluding the wrong resources can "
+"cause your install to not work properly."
+msgstr ""
+
+#: ../views/packages/new2.base.php:158
+#, fuzzy
+msgid "WordPress Settings"
+msgstr ""
+"这好比的WordPress\"阅读设置\"页面，在这里你可以设置帖子在博客页面或feeds里的"
+"显示数量。"
+
+#: ../views/packages/new2.base.php:164
+msgid "WordPress Version"
+msgstr "WordPress 版本"
+
+#: ../views/packages/new2.base.php:166
+msgid "It is recommended to have a version of WordPress that is greater that "
+msgstr ""
+
+#: ../views/packages/new2.base.php:172
+msgid "Found"
+msgstr "找到"
+
+#: ../views/packages/new2.base.php:172
+msgid "Missing"
+msgstr "丢失"
+
+#: ../views/packages/new2.base.php:174
+msgid "Core Files"
+msgstr "核心文件"
+
+#: ../views/packages/new2.base.php:176
+msgid ""
+"If the scanner is unable to locate the wp-config.php file in the root "
+"directory, then you will need to manually copy it to its new location."
+msgstr ""
+
+#: ../views/packages/new2.base.php:183
+msgid "Cache Path"
+msgstr "缓存路径"
+
+#: ../views/packages/new2.base.php:184
+msgid ""
+"Cached data will lead to issues at install time and increases your archive "
+"size. It is recommended to empty your cache directory at build time. Use "
+"caution when removing data from the cache directory. If you have a cache "
+"plugin review the documentation for how to empty it; simply removing files "
+"might cause errors on your site."
+msgstr ""
+
+#: ../views/packages/new2.base.php:185
+msgid "The cache size minimum threshold is currently set at "
+msgstr ""
+
+#: ../views/packages/new2.base.php:207 ../views/packages/new2.base.php:306
+msgid "Enabled"
+msgstr "启用"
+
+#: ../views/packages/new2.base.php:222
+msgid "File Count"
+msgstr ""
+
+#: ../views/packages/new2.base.php:223
+msgid "Directory Count"
+msgstr ""
+
+#: ../views/packages/new2.base.php:225
+#, php-format
+msgid ""
+"Total size represents all files minus any filters that have been setup.  The "
+"current thresholds that trigger warnings are %1$s for the entire site and "
+"%2$s for large files."
+msgstr ""
+
+#: ../views/packages/new2.base.php:234
+msgid "Invalid Names"
+msgstr ""
+
+#: ../views/packages/new2.base.php:238
+msgid ""
+"Invalid file or folder names can cause issues when extracting an archive "
+"across different environments.  Invalid file names consist of lengths over "
+"250 characters and illegal characters that may not work on all operating "
+"systems such as * ? > < : / \\ |  .  It is recommended to remove or filter "
+"these files before building the archive or else you might have issues at "
+"install time."
+msgstr ""
+
+#: ../views/packages/new2.base.php:240 ../views/packages/new2.base.php:255
+msgid "Show Paths"
+msgstr ""
+
+#: ../views/packages/new2.base.php:249
+msgid "Large Files"
+msgstr "大文件"
+
+#: ../views/packages/new2.base.php:253
+#, php-format
+msgid ""
+"Large files such as movies or other backuped data can cause issues with "
+"timeouts.  The current check for large files is %1$s per file.  If your "
+"having issues creating a package consider excluding these files with the "
+"files filter and manually moving them to your new location."
+msgstr ""
+
+#: ../views/packages/new2.base.php:265
+msgid "View Filters"
+msgstr ""
+
+#: ../views/packages/new2.base.php:268
+msgid ""
+"Below is a list of the directories and file extension that will be excluded "
+"from the archive."
+msgstr ""
+
+#: ../views/packages/new2.base.php:276
+msgid "No directory filters have been set."
+msgstr ""
+
+#: ../views/packages/new2.base.php:281
+msgid "File Extensions"
+msgstr "文件扩展名"
+
+#: ../views/packages/new2.base.php:286
+msgid "No file extension filters have been set."
+msgstr ""
+
+#: ../views/packages/new2.base.php:321
+msgid "Tables"
+msgstr "表格"
+
+#: ../views/packages/new2.base.php:322
+msgid "Records"
+msgstr "记录"
+
+#: ../views/packages/new2.base.php:325
+msgid "repair and optimization"
+msgstr ""
+
+#: ../views/packages/new2.base.php:326
+#, php-format
+msgid ""
+"Total size and row count for all database tables are approximate values.  "
+"The thresholds that trigger warnings are %1$s and %2$s records.  Large "
+"databases take time to process and can cause issues with server timeout and "
+"memory settings.  Running a %3$s on your database can also help improve the "
+"overall size and performance.  If your server supports shell_exec and "
+"mysqldump you can try to enable this option from the settings menu."
+msgstr ""
+
+#: ../views/packages/new2.base.php:338
+msgid "Table Details"
+msgstr ""
+
+#: ../views/packages/new2.base.php:349
+msgid "Name:"
+msgstr "名称："
+
+#: ../views/packages/new2.base.php:350
+msgid "Host:"
+msgstr "主机"
+
+#: ../views/packages/new2.base.php:351
+msgid "Build Mode:"
+msgstr ""
+
+#: ../views/packages/new2.base.php:362
+msgid "Scan Error"
+msgstr ""
+
+#: ../views/packages/new2.base.php:363
+msgid "Please try again!"
+msgstr "请再试！"
+
+#: ../views/packages/new2.base.php:365 ../views/packages/new3.base.php:110
+msgid "Server Status:"
+msgstr ""
+
+#: ../views/packages/new2.base.php:368 ../views/packages/new3.base.php:114
+msgid "Error Message:"
+msgstr "错误信息："
+
+#: ../views/packages/new2.base.php:375
+msgid "Back"
+msgstr "返回"
+
+#: ../views/packages/new2.base.php:376
+msgid "Rescan"
+msgstr ""
+
+#: ../views/packages/new2.base.php:463
+msgid "Unable to report on any tables"
+msgstr ""
+
+#: ../views/packages/new2.base.php:472
+msgid "Unable to report on database stats"
+msgstr ""
+
+#: ../views/packages/new2.base.php:487
+#, fuzzy
+msgid "No name length issues."
+msgstr "版块名称（最大长度： %d）："
+
+#: ../views/packages/new2.base.php:490 ../views/packages/new2.base.php:498
+msgid "FILE"
+msgstr "文件"
+
+#: ../views/packages/new2.base.php:495
+#, fuzzy
+msgid "No large files found."
+msgstr "文件"
+
+#: ../views/packages/new3.base.php:38
+msgid "Step 3: Build Package"
+msgstr "步骤3：构建压缩包"
+
+#: ../views/packages/new3.base.php:55
+msgid "Building Package"
+msgstr ""
+
+#: ../views/packages/new3.base.php:58
+msgid "Keep this window open during the build process."
+msgstr ""
+
+#: ../views/packages/new3.base.php:59
+msgid "This may take several minutes."
+msgstr ""
+
+#: ../views/packages/new3.base.php:63
+msgid "Build Status"
+msgstr ""
+
+#: ../views/packages/new3.base.php:70
+msgid "Package Completed"
+msgstr "压缩包已完成"
+
+#: ../views/packages/new3.base.php:75
+msgid "Process Time"
+msgstr ""
+
+#: ../views/packages/new3.base.php:100
+msgid "Build Interrupt"
+msgstr ""
+
+#: ../views/packages/new3.base.php:101
+msgid "The current build has experienced an issue."
+msgstr ""
+
+#: ../views/packages/new3.base.php:103
+msgid "Please try the process again."
+msgstr ""
+
+#: ../views/packages/new3.base.php:105
+msgid "Try Again"
+msgstr "再试"
+
+#: ../views/packages/new3.base.php:121
+msgid "Notice"
+msgstr "注意"
+
+#: ../views/packages/new3.base.php:124
+msgid "Build Folder:"
+msgstr ""
+
+#: ../views/packages/new3.base.php:126
+msgid ""
+"Some servers close connections quickly; yet the build can continue to run in "
+"the background. To validate if a build is still running; open the 'tmp' "
+"folder above and see if the archive file is growing in size. If it is not "
+"then your server has strict timeout constraints.  Please visit the support "
+"page for additional resources."
+msgstr ""
+
+#: ../views/packages/new3.base.php:135
+msgid "Package Log"
+msgstr "压缩包日志"
+
+#: ../views/packages/new3.base.php:136
+msgid "Support"
+msgstr "支持"
+
+#: ../views/settings/controller.php:22 ../views/tools/diagnostics.php:87
+msgid "General"
+msgstr "常规"
+
+#: ../views/settings/general.php:6
+msgid "Settings Saved"
+msgstr "设置已保存"
+
+#: ../views/settings/general.php:75
+msgid "Plugin"
+msgstr "插件"
+
+#: ../views/settings/general.php:83
+msgid "Uninstall"
+msgstr ""
+
+#: ../views/settings/general.php:86
+msgid "Delete Plugin Settings"
+msgstr ""
+
+#: ../views/settings/general.php:89
+msgid "Delete Entire Storage Directory"
+msgstr ""
+
+#: ../views/settings/general.php:94
+msgid "Storage"
+msgstr "存储"
+
+#: ../views/settings/general.php:96
+msgid "Full Path"
+msgstr "绝对路径"
+
+#: ../views/settings/general.php:99
+msgid "Disable .htaccess File In Storage Directory"
+msgstr ""
+
+#: ../views/settings/general.php:101
+msgid "Disable if issues occur when downloading installer/archive files."
+msgstr ""
+
+#: ../views/settings/general.php:114
+#, fuzzy
+msgid "Archive Flush"
+msgstr "存档为:"
+
+#: ../views/settings/general.php:117
+msgid "Attempt Network Keep Alive"
+msgstr ""
+
+#: ../views/settings/general.php:118
+msgid "recommended only for large archives"
+msgstr ""
+
+#: ../views/settings/general.php:120
+msgid ""
+"This will attempt to keep a network connection established for large "
+"archives."
+msgstr ""
+
+#: ../views/settings/general.php:125
+msgid "Database Build"
+msgstr ""
+
+#: ../views/settings/general.php:128
+#, fuzzy
+msgid "Use PHP"
+msgstr ""
+"如果出现错误, 清确定你服务器的 PHP 功能 <strong>set_time_limit()</strong> 能"
+"使用."
+
+#: ../views/settings/general.php:131
+msgid "Query Limit Size"
+msgstr ""
+
+#: ../views/settings/general.php:140
+msgid "higher values speed up build times but uses more memory"
+msgstr ""
+
+#: ../views/settings/general.php:147
+msgid "This server does not have shell_exec configured to run."
+msgstr ""
+
+#: ../views/settings/general.php:149
+msgid "Please contact the server administrator to enable this feature."
+msgstr ""
+
+#: ../views/settings/general.php:154
+msgid "Use mysqldump"
+msgstr ""
+
+#: ../views/settings/general.php:155
+msgid "recommended for large databases"
+msgstr ""
+
+#: ../views/settings/general.php:160
+msgid "Working Path:"
+msgstr ""
+
+#: ../views/settings/general.php:166
+msgid ""
+"Mysqldump was not found at its default location or the location provided.  "
+"Please enter a path to a valid location where mysqldump can run.  If the "
+"problem persist contact your server administrator."
+msgstr ""
+
+#: ../views/settings/general.php:171
+#, fuzzy
+msgid "Add Custom Path:"
+msgstr "自定义图标路径"
+
+#: ../views/settings/general.php:175
+msgid "This is the path to your mysqldump program."
+msgstr ""
+
+#: ../views/settings/general.php:184
+#, fuzzy
+msgid "Package Debug"
+msgstr "WP调试模式"
+
+#: ../views/settings/general.php:187
+msgid "Show Package Debug Status in Packages Screen"
+msgstr ""
+
+#: ../views/settings/general.php:195
+msgid "Roles & Capabilities"
+msgstr ""
+
+#: ../views/settings/general.php:200
+msgid "Custom Roles"
+msgstr ""
+
+#: ../views/settings/general.php:203
+msgid "Enable User Role Editor Plugin Integration"
+msgstr ""
+
+#: ../views/settings/general.php:210
+msgid "The User Role Editor Plugin"
+msgstr ""
+
+#: ../views/settings/general.php:211
+msgid "Free"
+msgstr "免费"
+
+#: ../views/settings/general.php:212
+msgid "or"
+msgstr "或"
+
+#: ../views/settings/general.php:213
+msgid "Professional"
+msgstr "专业"
+
+#: ../views/settings/general.php:214
+msgid "must be installed to use"
+msgstr ""
+
+#: ../views/settings/general.php:215
+#, fuzzy
+msgid "this feature."
+msgstr "功能"
+
+#: ../views/settings/general.php:227
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: ../views/tools/cleanup.php:8
+msgid "Installer File Cleanup Ran."
+msgstr ""
+
+#: ../views/tools/cleanup.php:12 ../views/tools/diagnostics.php:44
+msgid "Legacy data removed."
+msgstr ""
+
+#: ../views/tools/cleanup.php:16
+msgid "Build cache removed."
+msgstr ""
+
+#: ../views/tools/cleanup.php:73
+msgid ""
+"If the installer files did not successfully get removed, then you WILL need "
+"to remove them manually"
+msgstr ""
+
+#: ../views/tools/cleanup.php:74
+msgid ""
+"Please remove all installer files to avoid leaving open security issues on "
+"your server"
+msgstr ""
+
+#: ../views/tools/cleanup.php:82
+msgid "Data Cleanup"
+msgstr ""
+
+#: ../views/tools/cleanup.php:85
+msgid "Delete Reserved Files"
+msgstr ""
+
+#: ../views/tools/cleanup.php:86
+msgid "Removes all installer files from a previous install"
+msgstr ""
+
+#: ../views/tools/cleanup.php:89
+msgid "Delete Legacy Data"
+msgstr ""
+
+#: ../views/tools/cleanup.php:90
+msgid "Removes all legacy data and settings prior to version"
+msgstr ""
+
+#: ../views/tools/cleanup.php:93
+msgid "Clear Build Cache"
+msgstr ""
+
+#: ../views/tools/cleanup.php:94
+msgid "Removes all build data from:"
+msgstr ""
+
+#: ../views/tools/cleanup.php:107
+#, php-format
+msgid "This action will remove all legacy settings prior to version %1$s.  "
+msgstr ""
+
+#: ../views/tools/cleanup.php:108
+msgid ""
+"Legacy settings are only needed if you plan to migrate back to an older "
+"version of this plugin."
+msgstr ""
+
+#: ../views/tools/cleanup.php:120
+msgid ""
+"This process will remove all build cache files.  Be sure no packages are "
+"currently building or else they will be cancelled."
+msgstr ""
+
+#: ../views/tools/controller.php:16
+msgid "Logging"
+msgstr "日志"
+
+#: ../views/tools/controller.php:18
+msgid "Cleanup"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:18 ../views/tools/diagnostics.php:19
+msgid "unknow"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:39
+msgid "Plugin settings reset."
+msgstr ""
+
+#: ../views/tools/diagnostics.php:40
+msgid "View state settings reset."
+msgstr ""
+
+#: ../views/tools/diagnostics.php:41
+msgid "Active package settings reset."
+msgstr ""
+
+#: ../views/tools/diagnostics.php:81
+msgid "Server Settings"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:90
+#, fuzzy
+msgid "Duplicator Version"
+msgstr "支持Duplicator"
+
+#: ../views/tools/diagnostics.php:94
+#, fuzzy
+msgid "Operating System"
+msgstr "系统状态"
+
+#: ../views/tools/diagnostics.php:98
+#, fuzzy
+msgid "Timezone"
+msgstr "时区"
+
+#: ../views/tools/diagnostics.php:102
+#, fuzzy
+msgid "Server Time"
+msgstr "服务器"
+
+#: ../views/tools/diagnostics.php:110
+#, fuzzy
+msgid "APC Enabled"
+msgstr "开启"
+
+#: ../views/tools/diagnostics.php:114
+msgid "Root Path"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:118
+msgid "ABSPATH"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:122
+#, fuzzy
+msgid "Plugins Path"
+msgstr "面包屑路径"
+
+#: ../views/tools/diagnostics.php:126
+#, fuzzy
+msgid "Loaded PHP INI"
+msgstr "PHP 版本"
+
+#: ../views/tools/diagnostics.php:130
+msgid "Server IP"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:134
+msgid "Client IP"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:145
+msgid "Langugage"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:149 ../views/tools/diagnostics.php:204
+msgid "Charset"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:153
+msgid "Memory Limit "
+msgstr "内存限制"
+
+#: ../views/tools/diagnostics.php:154
+msgid "Max"
+msgstr "最大"
+
+#: ../views/tools/diagnostics.php:172
+msgid "Safe Mode"
+msgstr "安全模式"
+
+#: ../views/tools/diagnostics.php:176
+msgid "On"
+msgstr "开启"
+
+#: ../views/tools/diagnostics.php:176
+msgid "Off"
+msgstr "关闭"
+
+#: ../views/tools/diagnostics.php:181
+msgid "Memory Limit"
+msgstr "内存限制"
+
+#: ../views/tools/diagnostics.php:185
+msgid "Memory In Use"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:193
+msgid "Shell Exec"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:194
+#, fuzzy
+msgid "Is Supported"
+msgstr "选项卡内容。（支持HTML）"
+
+#: ../views/tools/diagnostics.php:194
+#, fuzzy
+msgid "Not Supported"
+msgstr "选项卡内容。（支持HTML）"
+
+#: ../views/tools/diagnostics.php:208
+msgid "Wait Timeout"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:212
+#, fuzzy
+msgid "Max Allowed Packets"
+msgstr "最高价格"
+
+#: ../views/tools/diagnostics.php:216
+msgid "msyqldump Path"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:220
+#, fuzzy
+msgid "Server Disk"
+msgstr "服务器"
+
+#: ../views/tools/diagnostics.php:223
+#, fuzzy
+msgid "Free space"
+msgstr "space"
+
+#: ../views/tools/diagnostics.php:226
+msgid "Note: This value is the physical servers hard-drive allocation."
+msgstr ""
+
+#: ../views/tools/diagnostics.php:227
+msgid ""
+"On shared hosts check your control panel for the 'TRUE' disk space quota "
+"value."
+msgstr ""
+
+#: ../views/tools/diagnostics.php:243
+msgid "Stored Data"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:248
+msgid "Options Values"
+msgstr ""
+
+#: ../views/tools/diagnostics.php:281
+#, fuzzy
+msgid "PHP Information"
+msgstr "PHP函数："
+
+#: ../views/tools/diagnostics.php:300
+#, fuzzy
+msgid "Delete this option value"
+msgstr "刪除选项"
+
+#: ../views/tools/logging.php:140
+#, fuzzy
+msgid "Log file not found or unreadable"
+msgstr "文件找不到了。"
+
+#: ../views/tools/logging.php:142
+msgid ""
+"Try to create a package, since no log files were found in the snapshots "
+"directory with the extension *.log"
+msgstr ""
+
+#: ../views/tools/logging.php:144
+msgid "Reasons for log file not showing"
+msgstr ""
+
+#: ../views/tools/logging.php:145
+msgid "The web server does not support returning .log file extentions"
+msgstr ""
+
+#: ../views/tools/logging.php:146
+msgid ""
+"The snapshots directory does not have the correct permissions to write "
+"files.  Try setting the permissions to 755"
+msgstr ""
+
+#: ../views/tools/logging.php:147
+msgid ""
+"The process that PHP runs under does not have enough permissions to create "
+"files.  Please contact your hosting provider for more details"
+msgstr ""
+
+#: ../views/tools/logging.php:156 ../views/tools/logging.php:161
+msgid "Options"
+msgstr "选项"
+
+#: ../views/tools/logging.php:163
+msgid "Refresh"
+msgstr "刷新"
+
+#: ../views/tools/logging.php:168
+#, fuzzy
+msgid "Auto Refresh"
+msgstr "活动自动刷新"
+
+#: ../views/tools/logging.php:174
+msgid "Last 20 Logs"
+msgstr ""
+
+#~ msgid "By"
+#~ msgstr "由"
+
+#~ msgid "SQL File"
+#~ msgstr "SQL文件"
+
+#~ msgid "Filters"
+#~ msgstr "筛选"
